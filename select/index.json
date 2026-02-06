@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "L7 Blues",
+  "base_artist": "LANA",
+  "createdAt": "2026-02-06T07:48:48.193258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cherry Bomb (Live with L7)",
+      "artist": "Joan Jett & The Blackhearts",
+      "has_synced": true,
+      "path": "select/01_Cherry_Bomb_(Live_with_L7)_Joan_Jett_&_The_Blackhearts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cherry Bomb (Live with L7)",
+      "artist": "Joan Jett and the Blackhearts",
+      "has_synced": true,
+      "path": "select/02_Cherry_Bomb_(Live_with_L7)_Joan_Jett_and_the_Blackhearts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "El L7",
+      "artist": "Lumar Perez",
+      "has_synced": true,
+      "path": "select/03_El_L7_Lumar_Perez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "0764 - L7 - Pretend We're Dead",
+      "artist": "L7",
+      "has_synced": true,
+      "path": "select/04_0764_-_L7_-_Pretend_We're_Dead_L7.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "L7 (Medication)",
+      "artist": "Wakefield",
+      "has_synced": false,
+      "path": "select/05_L7_(Medication)_Wakefield.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "L7 - Pretend We Re Dead",
+      "artist": "L7",
+      "has_synced": true,
+      "path": "select/06_L7_-_Pretend_We_Re_Dead_L7.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cherry Bomb (with L7) (Live)",
+      "artist": "Joan Jett and the Blackhearts",
+      "has_synced": true,
+      "path": "select/07_Cherry_Bomb_(with_L7)_(Live)_Joan_Jett_and_the_Blackhearts.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cherry Bomb (with L7) (Live)",
+      "artist": "Joan Jett & The Blackhearts with L7",
+      "has_synced": true,
+      "path": "select/08_Cherry_Bomb_(with_L7)_(Live)_Joan_Jett_&_The_Blackhearts_with_L7.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "l7 the fool on the hill",
+      "artist": "the beatles",
+      "has_synced": false,
+      "path": "select/09_l7_the_fool_on_the_hill_the_beatles.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "MONTAGEM ASSOMBRA MATRIX 3 (feat. DJ L7 DA ZN)",
+      "artist": "DJ WILL PS",
+      "has_synced": true,
+      "path": "select/10_MONTAGEM_ASSOMBRA_MATRIX_3_(feat._DJ_L7_DA_ZN)_DJ_WILL_PS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "L7",
+      "artist": "Luccas Calmo",
+      "has_synced": true,
+      "path": "select/11_L7_Luccas_Calmo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cherry Bomb (with L7))",
+      "artist": "Joan Jett and the Blackhearts",
+      "has_synced": true,
+      "path": "select/12_Cherry_Bomb_(with_L7))_Joan_Jett_and_the_Blackhearts.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cherry Bomb) - With L7",
+      "artist": "Joan Jett And The Blackhearts",
+      "has_synced": true,
+      "path": "select/13_Cherry_Bomb)_-_With_L7_Joan_Jett_And_The_Blackhearts.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cherry Bomb (live with L7)",
+      "artist": "Joan Jett & The Blackhearts",
+      "has_synced": true,
+      "path": "select/14_Cherry_Bomb_(live_with_L7)_Joan_Jett_&_The_Blackhearts.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cherry Bomb (with L7) - Live",
+      "artist": "Joan Jett & the Blackhearts",
+      "has_synced": true,
+      "path": "select/15_Cherry_Bomb_(with_L7)_-_Live_Joan_Jett_&_the_Blackhearts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "L7 Blues",
+      "artist": "LANA",
+      "has_synced": false,
+      "path": "select/pl_01_L7_Blues_LANA.txt"
+    }
+  ]
+}
